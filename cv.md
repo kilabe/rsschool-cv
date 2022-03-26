@@ -14,6 +14,12 @@
   * collaborative projects and extracurricular activities with other teachers
   * creating a comfort atmosphere in class, through communication with students outside of classes
 * JS, CSS, HTML courses on https://ru.code-basics.com/
+# Code example
+``` 
+function multiply(a, b) {
+  return a * b;
+}
+```
 ## Languages
 * English - Upper-intermediate
 * Russian - Native
