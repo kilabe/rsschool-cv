@@ -14,3 +14,15 @@
   * collaborative projects and extracurricular activities with other teachers
   * creating a comfort atmosphere in class, through communication with students outside of classes
 * JS, CSS, HTML courses on https://ru.code-basics.com/
+# Code example
+``` 
+function multiply(a, b) {
+  return a * b;
+}
+```
+## Languages
+* English - Upper-intermediate
+* Russian - Native
+* French - Basic
+## About Myself:
+I have interest in learning and developing in the IT industry. Also I am computer literate (proficient with Microsoft Word, Excel and PowerPoint, thorough understanding of social media). I appreciate the friendly atmosphere in the team. I easily find a common language with people.
