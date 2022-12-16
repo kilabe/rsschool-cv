@@ -1,1 +1,1 @@
-# rsschool-cv
+https://kilabe.github.io/rsschool-cv/
